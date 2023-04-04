@@ -1,2 +1,3 @@
-# css-frameworks-and-interactivity
-Jovian careers website demonstrating usage of CSS frameworks and interactivity
+# Bootstrap CSS Framework
+
+Jovian careers website demonstrating usage of the bootstrap CSS framework
